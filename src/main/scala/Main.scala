@@ -19,5 +19,7 @@ object Main extends App {
 
   println("Solution for day 6 part 1 is")
   println(day6.answerPart1)
+  println("Solution for day 6 part 2 is")
+  println(day6.answerPart2)
 
 }
